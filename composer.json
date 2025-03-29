@@ -2,11 +2,11 @@
     "name": "tishotm/eloquent-ci-relations",
     "description": "Eloquent case-insensitive relations",
     "require": {
-        "illuminate/database": "^5.5.33 || ^6.20.26 || ^7.30.4 || ^8.40.0 || ^9.0 || ^10.0 || ^11.0"
+        "illuminate/database": "^5.5.33 || ^6.20.26 || ^7.30.4 || ^8.40.0 || ^9.0 || ^10.0 || ^11.0 || ^12"
     },
     "require-dev": {
         "php": "~7.1 || ~8.0",
-        "phpunit/phpunit": "~6.0 || ~7.0 || ~8.0",
+        "phpunit/phpunit": "~6.0 || ~7.0 || ~8.0 || ~11.0",
         "mockery/mockery": "~1.0"
     },
     "autoload": {
